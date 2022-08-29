@@ -1,0 +1,4 @@
+aml_config/*
+.amlignore.amltmp
+.amlignore
+notebooks/automated_ml_errors.log
