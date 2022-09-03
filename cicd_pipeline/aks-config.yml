@@ -13,4 +13,4 @@ appInsightsEnabled: True
 scoringTimeoutMs: 5000
 maxConcurrentRequestsPerContainer: 1
 maxQueueWaitMs: 5000
-sslEnabled: True
+sslEnabled: False
