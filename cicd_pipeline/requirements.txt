@@ -1,0 +1,8 @@
+mlflow
+azureml-train-automl-runtime==1.44.0
+inference-schema
+azureml-interpret==1.44.0
+azureml-defaults==1.44.0
+pytorch-transformers==1.0.0
+spacy==2.1.8
+https://aka.ms/automl-resources/packages/en_core_web_sm-2.1.0.tar.gz
