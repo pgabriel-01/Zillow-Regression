@@ -4,4 +4,4 @@ containerResourceRequirements:
     memoryInGB: 1
 authEnabled: False
 sslEnabled: False
-appInsightsEnabled: False
+appInsightsEnabled: True
